@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 5041-47B9
-
- Directory of C:\Users\aayuesh barui\Desktop\my pro
-
-30-04-2020  13:19    <DIR>          .
-30-04-2020  13:19    <DIR>          ..
-30-04-2020  13:19                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  412,632,924,160 bytes free
+change 1
